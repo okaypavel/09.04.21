@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(70, 70, 70);
+    color: white;
+}
+
+.input-main{
+    width: 99.3%;
+    
+}
+.button-main{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+}
